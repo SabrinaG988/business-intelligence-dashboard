@@ -71,6 +71,6 @@ Comparação entre as quatro categorias de produtos: **Doohickey, Gadget, Gizmo 
 
 ## 🛠️ Ferramentas
 
-Dashboard construído com **[Metabase]** a partir de **[Sample Database]**.
+Dashboard construído com **[Metabase]** e **[Docker]** a partir de **[Sample Database]**.
 !
 
